@@ -78,7 +78,7 @@
     </developers>
 
     <properties>
-        <caf.worker-document-framework.version>3.1.1-71</caf.worker-document-framework.version>
+        <caf.worker-document-framework.version>3.2.0-CAF-3518_JS_POSTPROCESS-SNAPSHOT</caf.worker-document-framework.version>
         <dockerHubOrganization>cafdataprocessing</dockerHubOrganization>
         <dockerCafDataProcessingOrg>${dockerImagePrefix}${dockerHubOrganization}${dockerOrgSeperator}</dockerCafDataProcessingOrg>
         <dockerProjectVersion>${dockerVersionSeperator}${project.version}</dockerProjectVersion>
